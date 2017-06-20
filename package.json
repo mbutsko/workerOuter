@@ -1,0 +1,15 @@
+{
+  "name": "workerouter",
+  "version": "1.0.0",
+  "description": "A library to parse workouts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": ">= 0.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
